@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<layout>
+	<background height="8" width="10">
+		Å,R,K,L,O,C,K,A,N,R,
+		E,Ä,R,B,T,I,O,F,E,M,
+		K,V,A,R,T,J,U,G,O,Ä,
+		Ö,V,E,R,I,G,H,A,L,V,
+		T,V,Å,T,T,A,F,E,M,A,
+		E,T,T,I,O,N,E,L,V,A,
+		N,I,O,S,E,X,T,O,L,V,
+		F,Y,R,A,T,R,E,S,J,U
+	</background>
+	<times>
+                <time id="1:00">klockan är %1h%</time>
+                <time id="1:05">klockan är %5m% över %1h%</time>
+                <time id="1:25">klockan är fem i halv %2h%</time>
+                <time id="1:30">klockan är %30m% %h2%</time>
+                <time id="1:35">klockan är fem över halv %h2%</time>
+                <time id="1:40">klockan är %20m% i %2h%</time>
+	</times>
+	<strings>
+                <string id="1">ett</string>
+                <string id="2">två</string>
+                <string id="3">tre</string>
+                <string id="4">fyra</string>
+                <string id="5">fem</string>
+                <string id="6">sex</string>
+                <string id="7">sju</string>
+                <string id="8">åtta</string>
+                <string id="9">nio</string>
+                <string id="10">tio</string>
+                <string id="11">elva</string>
+                <string id="12">tolv</string>
+                <string id="15">kvart</string>
+                <string id="20">tjugo</string>
+                <string id="30">halv</string>
+	</strings>
+</layout>
