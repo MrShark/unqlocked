@@ -54,7 +54,9 @@ class Config:
 				'french':  'French 10x11',
 				'german':  'German 10x11',
 				'italian': 'Italian 10x11',
-				'spanish': 'Spanish 10x11'}
+				'spanish': 'Spanish 10x11',
+				'swedish': 'Swedish 8x10',
+				}
 			language = xbmc.getLanguage()
 			if language in map:
 				layout = map[language]
