@@ -14,8 +14,8 @@
                 <time id="1:00">klockan är %1h%</time>
                 <time id="1:05">klockan är %5m% över %1h%</time>
                 <time id="1:25">klockan är fem i halv %2h%</time>
-                <time id="1:30">klockan är %30m% %h2%</time>
-                <time id="1:35">klockan är fem över halv %h2%</time>
+                <time id="1:30">klockan är halv %2h%</time>
+                <time id="1:35">klockan är fem över halv %2h%</time>
                 <time id="1:40">klockan är %20m% i %2h%</time>
 	</times>
 	<strings>
